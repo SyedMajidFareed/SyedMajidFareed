@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SyedMajidFareed
-- 👀 I’m interested in Psychology
+- 👀 I’m interested in Project Management
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Gmail
-- 📫 How to reach me majidtracker15@gmail.com
+- 📫 How to reach me majidfareed099@gmail.com
 
 <!---
 SyedMajidFareed/SyedMajidFareed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
