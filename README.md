@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majid Fareed.</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan.</h3>
+<h3 align="center">A passionate and competent Software Engineer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **.NET Core**
 
 - 💬 Ask me about **.NET**
 
