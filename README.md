@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Majid Fareed.</h1>
 <h3 align="center">A passionate and competent Software Engineer from Pakistan.</h3>
 <h4 align="center">I am a quick learner and a responsible individual who wants to become the best in whatever he does.</h4>
+
+
 - 🌱 I’m currently learning **.NET Core**
 
 - 💬 Ask me about **Programming**
