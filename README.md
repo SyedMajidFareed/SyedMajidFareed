@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Majid Fareed.</h1>
 <h3 align="center">A passionate and competent Software Engineer from Pakistan.</h3>
-
+<h4 align="center">I am a quick learner and a responsible individual who wants to become the best in whatever he does.</h4>
 - 🌱 I’m currently learning **.NET Core**
 
-- 💬 Ask me about **.NET**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **majidfareed099@gmail.com**
 
-- ⚡ Fun fact **I think I would have been a Psychologist in a Parallel Universe.**
+- ⚡ Fun fact **You can rely on me in the hour of need.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
